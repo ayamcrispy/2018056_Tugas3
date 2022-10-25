@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tugas3</string>
+    <string name="deskription">Noken as super cam dengan durasi dan lift tinggi</string>
+    <string name="Harga_noken">250000</string>
+    <string name="price">Harga</string>
+    <string name="ingredients">Noken Terbuaat dari bahan cor pilihan, terbukti keras, kuat, dan tahan lama</string>
+    <string name="kategori">Sparepart</string>
+</resources>
